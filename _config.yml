@@ -1,7 +1,7 @@
 name: apex
 favicon: null
 layout_spectrum: 0.79335
-typography_spectrum: 0.4756
+typography_spectrum: 0.49112
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#c8c9cd'
     - '#92939b'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.6875
   saturation: 0.875
   rhythmicContrast: 0.5
 purpose:
