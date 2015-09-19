@@ -1,6 +1,7 @@
 name: apex
 favicon: null
 layout_spectrum: 0.79335
+typography_spectrum: 0.31371
 cta:
   domain: null
   bucket: null
