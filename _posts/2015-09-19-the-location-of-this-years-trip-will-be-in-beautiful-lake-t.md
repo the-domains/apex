@@ -5,9 +5,9 @@ starred: false
 keywords: []
 description: ''
 author: []
-datePublished: '2015-09-20T03:56:59.069Z'
+datePublished: '2015-09-20T04:16:47.270Z'
 title: "This is the Apex House. The location of this year's trip will be in beautiful Lake Tahoe. To find out about one of the deepest and clearest lakes in the United States check out https://keeptahoeblue.org/."
-dateModified: '2015-09-20T03:56:43.275Z'
+dateModified: '2015-09-20T04:16:13.803Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-19-the-location-of-this-years-trip-will-be-in-beautiful-lake-t.md
