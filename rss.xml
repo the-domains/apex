@@ -5,7 +5,7 @@
         <description><![CDATA[apex]]></description>
         <link>https://thegrid.ai/apex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 05:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 05:09:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apex/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -34,13 +34,6 @@
             <link>https://thegrid.ai/apex/f652e821-d624-4a1f-ae08-e57af0a994c5/index.html</link>
             <guid isPermaLink="false">f652e821-d624-4a1f-ae08-e57af0a994c5</guid>
             <pubDate>Tue, 22 Sep 2015 04:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01769e79-86d4-4cfd-a049-fa04662b6903.png">]]></description>
-            <link>https://thegrid.ai/apex/88ab3832-a0a1-42fb-ba14-d95a6881f46b/index.html</link>
-            <guid isPermaLink="false">88ab3832-a0a1-42fb-ba14-d95a6881f46b</guid>
-            <pubDate>Tue, 22 Sep 2015 04:30:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
