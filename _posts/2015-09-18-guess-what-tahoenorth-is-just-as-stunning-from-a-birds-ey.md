@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://instagram.com/p/6nEYE4Jc4t/'
 title: "Guess what? #TahoeNorth is just as stunning from a bird's eye view. (Photo: @thebere)"
-datePublished: '2015-09-19T17:19:42.963Z'
-dateModified: '2015-09-18T23:14:32.565Z'
+datePublished: '2015-09-22T00:12:21.807Z'
+dateModified: '2015-09-21T19:33:59.215Z'
 sourcePath: _posts/2015-09-18-guess-what-tahoenorth-is-just-as-stunning-from-a-birds-ey.md
 published: true
 _type: Photograph
