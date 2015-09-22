@@ -5,7 +5,7 @@
         <description><![CDATA[apex]]></description>
         <link>https://thegrid.ai/apex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 05:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2015 05:41:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apex/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -55,13 +55,6 @@
             <link>https://thegrid.ai/apex/the-vision-behind-apex-is-just-more-than-just-a-photography/index.html</link>
             <guid isPermaLink="false">01f53a9b-52ed-4fa8-8003-89e0ba652bd3</guid>
             <pubDate>Tue, 22 Sep 2015 05:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9df41b4-6455-4d0d-8eca-ea46f979c3c4.jpg">]]></description>
-            <link>https://thegrid.ai/apex/64574ae7-15dd-446b-83b6-d444cd19cf5d/index.html</link>
-            <guid isPermaLink="false">64574ae7-15dd-446b-83b6-d444cd19cf5d</guid>
-            <pubDate>Tue, 22 Sep 2015 05:05:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
