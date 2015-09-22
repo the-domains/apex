@@ -19,8 +19,8 @@ app_links:
     app_name: Instagram
     package: com.instagram.android
 title: 'Plenty of photographic opportunity like Emerald Bay, snow and a sunset. Breathtaking! (Photo: @billchurchphoto).'
-datePublished: '2015-09-19T17:19:42.972Z'
-dateModified: '2015-09-19T00:35:08.179Z'
+datePublished: '2015-09-22T00:12:21.565Z'
+dateModified: '2015-09-21T19:33:58.915Z'
 sourcePath: _posts/2015-09-18-emerald-bay-snow-and-a-sunset-breathtaking-photo-billc.md
 published: true
 tags:
