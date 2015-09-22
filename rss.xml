@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[apex]]></title>
         <description><![CDATA[apex]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/apex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Sep 2015 05:47:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Sep 2015 05:47:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/apex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The vision behind Apex is just more than just a photography workshop. It is an opportunity for men to come together and open up possibilities while making lifetime friendships.  ]]></title>
+            <description><![CDATA[<article><h1>The vision behind Apex is just more than just a photography workshop. It is an opportunity for men to come together and open up possibilities while making lifetime friendships.  </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea14e519-3aa7-4bf7-b1a6-d334ba876108.png"></article>]]></description>
+            <link>https://thegrid.ai/apex/the-vision-behind-apex-is-just-more-than-just-a-photography/index.html</link>
+            <guid isPermaLink="false">01f53a9b-52ed-4fa8-8003-89e0ba652bd3</guid>
+            <pubDate>Tue, 22 Sep 2015 05:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c5fae5-defc-49e0-9b90-5ecd577dcbae.png">]]></description>
-            <link>undefinedfc50942f-11c0-4195-baaf-d6dc3e2ede25/index.html</link>
+            <link>https://thegrid.ai/apex/fc50942f-11c0-4195-baaf-d6dc3e2ede25/index.html</link>
             <guid isPermaLink="false">fc50942f-11c0-4195-baaf-d6dc3e2ede25</guid>
             <pubDate>Tue, 22 Sep 2015 05:47:12 GMT</pubDate>
         </item>
