@@ -5,8 +5,15 @@
         <description><![CDATA[apex]]></description>
         <link>https://thegrid.ai/apex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Sep 2015 04:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2015 04:50:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bdaa7fa-1232-43b0-a6f2-df48b5953667.jpg">]]></description>
+            <link>https://thegrid.ai/apex/ef6d5b39-6a7b-4e8a-9a49-15107513b251/index.html</link>
+            <guid isPermaLink="false">ef6d5b39-6a7b-4e8a-9a49-15107513b251</guid>
+            <pubDate>Thu, 24 Sep 2015 04:49:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d53e8cb8-cbef-441e-83f0-790b6c00ae24.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/apex/the-vision-behind-apex-is-more-than-just-a-photography-works/index.html</link>
             <guid isPermaLink="false">01f53a9b-52ed-4fa8-8003-89e0ba652bd3</guid>
             <pubDate>Tue, 22 Sep 2015 06:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I recognize when fear paralyzes me, it is a good sign. Fear is an indicator that I am on the right path. Fear tends to get me stuck in a proverbial rut. My hope is that in this workshop we will begin to understand why we have stop taking risk.]]></title>
-            <description><![CDATA[<article><h1>I recognize when fear paralyzes me, it is a good sign. Fear is an indicator that I am on the right path. Fear tends to get me stuck in a proverbial rut. My hope is that in this workshop we will begin to understand why we have stop taking risk.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c5fae5-defc-49e0-9b90-5ecd577dcbae.png"></article>]]></description>
-            <link>https://thegrid.ai/apex/i-recognize-when-fear-paralyzes-me-it-is-a-good-sign-fear/index.html</link>
-            <guid isPermaLink="false">fc50942f-11c0-4195-baaf-d6dc3e2ede25</guid>
-            <pubDate>Tue, 22 Sep 2015 06:23:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
