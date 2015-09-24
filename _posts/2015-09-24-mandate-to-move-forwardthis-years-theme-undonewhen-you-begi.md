@@ -5,21 +5,21 @@ starred: true
 keywords: []
 description: 'Mandate to move forwardThis years theme- UndoneWhen you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time '
 author: []
-datePublished: '2015-09-24T05:39:14.633Z'
+datePublished: '2015-09-24T05:42:24.784Z'
 title: ''
-dateModified: '2015-09-24T05:38:11.966Z'
+dateModified: '2015-09-24T05:41:51.819Z'
 tags:
   - ''
+sourcePath: _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
-published: true
 url: mandate-to-move-forwardthis-years-theme-undonewhen-you-begi/index.html
-_type: Article
+_type: WebPage
 _context: 'http://schema.org'
 
 ---
