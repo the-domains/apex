@@ -5,8 +5,15 @@
         <description><![CDATA[apex]]></description>
         <link>https://thegrid.ai/apex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Sep 2015 04:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2015 04:50:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58bca853-5eac-424b-8f18-6b1dc715c448.jpg">]]></description>
+            <link>https://thegrid.ai/apex/fcd9643c-2ef8-4fbc-b875-ebe92ac1ff4b/index.html</link>
+            <guid isPermaLink="false">fcd9643c-2ef8-4fbc-b875-ebe92ac1ff4b</guid>
+            <pubDate>Thu, 24 Sep 2015 04:49:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bdaa7fa-1232-43b0-a6f2-df48b5953667.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/apex/we-tend-to-listen-to-the-lies-that-would-say-you-are-not-g/index.html</link>
             <guid isPermaLink="false">3870676c-923b-4f60-b235-095574e9c89a</guid>
             <pubDate>Tue, 22 Sep 2015 06:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The vision behind Apex is more than just a photography workshop, it is a creative workshop. Giving an opportunity for men to come together and open up possibilities.]]></title>
-            <description><![CDATA[<article><h1>The vision behind Apex is more than just a photography workshop, it is a creative workshop. Giving an opportunity for men to come together and open up possibilities.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea14e519-3aa7-4bf7-b1a6-d334ba876108.png"></article>]]></description>
-            <link>https://thegrid.ai/apex/the-vision-behind-apex-is-more-than-just-a-photography-works/index.html</link>
-            <guid isPermaLink="false">01f53a9b-52ed-4fa8-8003-89e0ba652bd3</guid>
-            <pubDate>Tue, 22 Sep 2015 06:17:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
