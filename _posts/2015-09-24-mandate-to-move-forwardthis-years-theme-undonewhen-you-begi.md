@@ -3,11 +3,11 @@ isBasedOnUrl: 'urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1'
 inLanguage: null
 starred: true
 keywords: []
-description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. To sign up http://bit.ly/1YNcGZw'
+description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. To sign up http://j.mp/tahoe2016'
 author: []
-datePublished: '2015-09-29T22:13:57.419Z'
+datePublished: '2015-09-29T22:37:17.603Z'
 title: 'Mandate to move forward- '
-dateModified: '2015-09-29T22:13:37.245Z'
+dateModified: '2015-09-29T22:36:56.469Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
