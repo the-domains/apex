@@ -5,9 +5,9 @@ starred: true
 keywords: []
 description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. Only a few spots left. To REGISTER  http://j.mp/tahoe2016'
 author: []
-datePublished: '2015-09-29T22:46:17.316Z'
+datePublished: '2015-09-29T23:00:13.292Z'
 title: 'Mandate to move forward- '
-dateModified: '2015-09-29T22:46:04.806Z'
+dateModified: '2015-09-29T22:46:17.316Z'
 tags:
   - ''
 sourcePath: _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
