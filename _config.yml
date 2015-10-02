@@ -1,7 +1,7 @@
 name: apex
 favicon: null
 layout_spectrum: 0.19542
-typography_spectrum: 0.2765843
+typography_spectrum: 0.31811
 collections:
   - filter:
       notType:
