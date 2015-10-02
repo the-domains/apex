@@ -1,7 +1,9 @@
-name: apex
 favicon: null
-layout_spectrum: 0.18047
-typography_spectrum: 0.31811
+name: apex
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - filter:
       notType:
@@ -26,30 +28,28 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: awareness
+    url: null
+    item: null
 color:
+  saturation: 1
+  brandStrength: 0.0625
+  rhythmicContrast: 0.75
   brandColors:
     - '#f2f2f4'
     - '#f0b642'
     - '#252838'
     - '#434554'
     - '#6b6b6d'
-  brandStrength: 0.0625
   lightness: 0.875
-  saturation: 1
-  rhythmicContrast: 0.75
-purpose:
-  - name: awareness
-    url: null
-    item: null
+typography_spectrum: 0.31811
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4215897
+analytics:
+  twitter: null
+  google: null
+  facebook: null
