@@ -5,7 +5,7 @@
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Oct 2015 01:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2015 15:11:23 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -20,6 +20,13 @@
             <link>http://apex.vision/mandate-to-move-forward/index.html</link>
             <guid isPermaLink="false">de7fc337-cf0d-4548-a101-1bf8c5db3e17</guid>
             <pubDate>Wed, 30 Sep 2015 01:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/964f1649-22f6-4977-af3d-d1ae6ff5642a.png">]]></description>
+            <link>http://apex.vision/201d0d44-a2a7-4164-bd74-71699e2f7c93/index.html</link>
+            <guid isPermaLink="false">201d0d44-a2a7-4164-bd74-71699e2f7c93</guid>
+            <pubDate>Sat, 03 Oct 2015 15:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
