@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. However, if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. Th special opportunity for creative entrepreneurs to open up more possibilities. To REGISTER  http://j.mp/tahoe2016'
-datePublished: '2015-10-29T21:48:02.156Z'
-dateModified: '2015-10-29T21:47:58.319Z'
+datePublished: '2015-10-29T22:06:36.609Z'
+dateModified: '2015-10-29T22:06:33.029Z'
 author: []
 title: Mandate to move forward
 tags:
@@ -27,7 +27,7 @@ _context: 'http://schema.org'
 ---
 # [Mandate to move forward][0]
 
-[This years theme- Undone ][0]
+[2016 Workshop is sold out. Get on the waiting list.][1]
 
 When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. What's left over in life is sometimes a wake of hurt, undone areas of life, confusion, even emptiness. This is not UN-Normal...in every man's journey this undoing is a time of pruning, that if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. We must be undone for the next season to take place. You cannot do this alone only with other men, on the same journey, on the same mission, at the same point of life, can you reach your next Apex! 
 
@@ -43,3 +43,4 @@ What you can expect:
 * This is limited to a select group of men who know they have more to give, desire to do the greater, and understand it can be painful climb higher....but are willing to risk. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9ed83e-9bdf-4aa5-9ee4-a82a4847e6e9.jpg)
 
 [0]: http://www.beautifuloutcome.com/new-products/apex-creative-workshop
+[1]: http://j.mp/tahoe2016
