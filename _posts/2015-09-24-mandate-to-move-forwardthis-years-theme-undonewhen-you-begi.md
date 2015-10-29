@@ -1,13 +1,16 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. However, if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. Th special opportunity for creative entrepreneurs to open up more possibilities. To REGISTER  http://j.mp/tahoe2016'
+datePublished: '2015-10-29T21:36:27.939Z'
+dateModified: '2015-10-29T21:36:25.657Z'
 author: []
-datePublished: '2015-09-30T01:41:56.540Z'
-title: 'Mandate to move forward- '
-dateModified: '2015-09-29T23:15:14.887Z'
+title: Mandate to move forward
 tags:
   - ''
 sourcePath: _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
@@ -18,7 +21,6 @@ publisher:
   domain: ''
   url: null
   favicon: null
-url: mandate-to-move-forward/index.html
 _type: Article
 _context: 'http://schema.org'
 
