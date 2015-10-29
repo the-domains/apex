@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[apex]]></title>
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Oct 2015 22:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2015 20:39:17 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -27,13 +26,6 @@
             <link>http://apex.vision/i-recognize-when-fear-paralyzes-me-it-is-a-good-sign-fear/index.html</link>
             <guid isPermaLink="false">fc50942f-11c0-4195-baaf-d6dc3e2ede25</guid>
             <pubDate>Mon, 05 Oct 2015 22:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring for me is a big part of my everyday life.  You have to prioritize time for yourself as a creative. You have to dip your toe in the cold water. Meaning, take on some new ways to create.]]></title>
-            <description><![CDATA[<article><h1>Exploring for me is a big part of my everyday life.  You have to prioritize time for yourself as a creative. You have to dip your toe in the cold water. Meaning, take on some new ways to create.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4767461-9feb-4b98-88dc-3f4d17ec4788.jpg"></article>]]></description>
-            <link>http://apex.vision/exploring-for-me-is-a-big-part-of-my-everyday-life-you-hav/index.html</link>
-            <guid isPermaLink="false">4d1fac74-e19a-4931-b6d3-5ccd777b6c88</guid>
-            <pubDate>Mon, 05 Oct 2015 22:48:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
