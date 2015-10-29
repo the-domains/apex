@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. However, if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. Th special opportunity for creative entrepreneurs to open up more possibilities. To REGISTER  http://j.mp/tahoe2016'
-datePublished: '2015-10-29T22:06:36.609Z'
-dateModified: '2015-10-29T22:06:33.029Z'
+datePublished: '2015-10-29T22:06:50.618Z'
+dateModified: '2015-10-29T22:06:47.477Z'
 author: []
 title: Mandate to move forward
 tags:
