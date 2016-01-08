@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://travefy.com'
-  name: Travefy
-  favicon: 'https://travefy.com/favicon.ico?v=2'
-  domain: travefy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://travefy.com/trips/242345/join/853e2d3c-1d8e-4c6e-b3e8-066ac13c610a'
+inLanguage: en
+starred: false
 keywords:
   - floors
   - patios
@@ -17,20 +16,23 @@ keywords:
   - conversation
   - need
   - eat
-description: This is an opportunity for you just have the quiet time that is needed. If you need something eat I just ask that you be respectful of others. The first floor will be dedicated to this. You may take conversation to the other floors or out to the patios.
-inLanguage: en
+description: "It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just \"SHOW UP\" and be ready to take what comes up."
+datePublished: '2016-01-08T23:55:52.246Z'
+dateModified: '2016-01-08T23:55:44.787Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://travefy.com/trips/242345/join/853e2d3c-1d8e-4c6e-b3e8-066ac13c610a'
-title: APEX 2016 Lake Tahoe
-datePublished: '2016-01-08T23:53:10.566Z'
-dateModified: '2016-01-08T23:52:44.532Z'
+title: APEX 2016 Lake Tahoe Itinerary
 sourcePath: _posts/2016-01-08-apex-2016-lake-tahoe.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Travefy
+  domain: travefy.com
+  url: 'https://travefy.com'
+  favicon: 'https://travefy.com/favicon.ico?v=2'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>APEX 2016 Lake Tahoe</h1><p>This is an opportunity for you just have the quiet time that is needed&amp;period; If you need something eat I just ask that you be respectful of others&amp;period; The first floor will be dedicated to this&amp;period; You may take conversation to the other floors or out to the patios&amp;period;</p><img src="https://s3.amazonaws.com/travefy-storage/link-content/trip/b62173e2dd3f41e1ba94b91862ae7d7d.jpg" /></article>
+<article style=""><h1>APEX 2016 Lake Tahoe Itinerary</h1><p>It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just "SHOW UP" and be ready to take what comes up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/677bafd807e584f8ed0e7e2bb7028231204bcafa.jpg" /></article>
