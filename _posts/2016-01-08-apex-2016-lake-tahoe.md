@@ -16,8 +16,8 @@ keywords:
   - need
   - eat
 description: "It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just \"SHOW UP\" and be ready to take what comes up."
-datePublished: '2016-01-09T00:35:46.123Z'
-dateModified: '2016-01-09T00:35:40.952Z'
+datePublished: '2016-01-09T00:42:18.640Z'
+dateModified: '2016-01-09T00:42:14.560Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>APEX 2016 Lake Tahoe Itinerary</h1><p>It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just "SHOW UP" and be ready to take what comes up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/677bafd807e584f8ed0e7e2bb7028231204bcafa.jpg" /></article>
+<article style=""><h1>APEX 2016 Lake Tahoe Itinerary</h1><p>It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just "SHOW UP" and be ready to take what comes up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b01ce35c4f521e27471774b44f3f3fa93af5c383.jpg" /></article>
