@@ -16,8 +16,8 @@ keywords:
   - need
   - eat
 description: "It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just \"SHOW UP\" and be ready to take what comes up."
-datePublished: '2016-01-09T00:42:18.640Z'
-dateModified: '2016-01-09T00:42:14.560Z'
+datePublished: '2016-01-09T00:46:20.881Z'
+dateModified: '2016-01-09T00:46:17.043Z'
 author: []
 related: []
 app_links: []
