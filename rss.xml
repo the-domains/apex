@@ -4,7 +4,7 @@
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 02:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 02:50:34 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[APEX]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1</link>
             <guid isPermaLink="false">de7fc337-cf0d-4548-a101-1bf8c5db3e17</guid>
             <pubDate>Sat, 09 Jan 2016 01:45:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Takeaways:]]></title>
+            <description><![CDATA[<article><h1>Takeaways:</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/645a35a5-73ab-485a-8d04-a37aecb18c27.jpg"></article>]]></description>
+            <link>http://apex.vision/takeaways/index.html</link>
+            <guid isPermaLink="false">62fbeb19-bfc8-48a8-be93-3e82990e09b9</guid>
+            <pubDate>Sat, 09 Jan 2016 02:49:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What is included?]]></title>
