@@ -45,10 +45,10 @@ color:
     - '#252838'
     - '#434554'
     - '#6b6b6d'
-  brandStrength: 0.5625
+  brandStrength: 1
   lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     url: null
