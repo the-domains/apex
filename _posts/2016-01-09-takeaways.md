@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T06:26:58.300Z'
-dateModified: '2016-01-09T06:26:23.412Z'
+datePublished: '2016-01-09T06:27:16.890Z'
+dateModified: '2016-01-09T06:27:13.650Z'
 title: 'Takeaways:'
 author: []
 sourcePath: _posts/2016-01-09-takeaways.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Takeaways:
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/04291c72d49615a65ca9bd0bd2b24e22ee9d79a8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6476e58b606a9ee8c266b46f436a9d0caba3ad92.jpg)
 
 * Creative engagement in all areas of your life
 * Action steps to interrupt the feeling of being undone
