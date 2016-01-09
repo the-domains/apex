@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://travefy.com/trips/242345/join/853e2d3c-1d8e-4c6e-b3e8-066ac13c610a'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - need
   - eat
 description: "It's close to that time! I am really looking forward to having this time with each of you. I am expect great things to happen while you are in Tahoe. All I ask is that you just \"SHOW UP\" and be ready to take what comes up."
-datePublished: '2016-01-08T23:55:52.246Z'
-dateModified: '2016-01-08T23:55:44.787Z'
+datePublished: '2016-01-09T00:35:46.123Z'
+dateModified: '2016-01-09T00:35:40.952Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: travefy.com
   url: 'https://travefy.com'
   favicon: 'https://travefy.com/favicon.ico?v=2'
+url: apex-2016-lake-tahoe-itinerary/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
