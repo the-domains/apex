@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T05:17:09.775Z'
-dateModified: '2016-01-09T05:12:36.399Z'
+datePublished: '2016-01-09T06:27:38.026Z'
+dateModified: '2016-01-09T06:27:33.280Z'
 title: What is included?
 author: []
+sourcePath: _posts/2016-01-09-what-is-included.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-what-is-included.md
-published: true
 url: what-is-included/index.html
 _type: Article
 
 ---
 # What is included?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/761d6485-7198-4fc9-9d60-3fe7e79ae81a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c867a4d90517af26350cdab92c9c8c9e7163f1d.jpg)
 
 * Accommodations at a Luxury Mountain Cabin in Lake Tahoe
 * Meals at cabin prepared by a Personal Chef
