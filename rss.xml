@@ -4,11 +4,18 @@
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 04:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 04:43:56 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Takeaways:]]></title>
+            <description><![CDATA[<article><h1>Takeaways:</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8025ecf3b64e8b5a67fde8d4876094744ff882c9.jpg"></article>]]></description>
+            <link>http://apex.vision/takeaways/index.html</link>
+            <guid isPermaLink="false">0ced27dd-7faf-4096-88e7-e9dd6372d625</guid>
+            <pubDate>Sat, 09 Jan 2016 04:43:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[APEX]]></title>
-            <description><![CDATA[<article><h1>APEX</h1><p>2016 Workshop is sold out. Get on the waiting list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9329281a84ac8e942a42069d9dbd5cf1d7ba5b2c.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>APEX</h1><p>2016 Workshop is sold out. Get on the waiting list.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca4054e867c0dea42f0f531305beb125dcfbf9b.jpg"></article>]]></description>
             <link>urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1</link>
             <guid isPermaLink="false">de7fc337-cf0d-4548-a101-1bf8c5db3e17</guid>
             <pubDate>Sat, 09 Jan 2016 04:43:02 GMT</pubDate>
