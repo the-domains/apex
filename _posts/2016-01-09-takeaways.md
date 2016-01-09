@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T06:25:27.553Z'
-dateModified: '2016-01-09T06:25:22.104Z'
+datePublished: '2016-01-09T06:26:58.300Z'
+dateModified: '2016-01-09T06:26:23.412Z'
 title: 'Takeaways:'
 author: []
 sourcePath: _posts/2016-01-09-takeaways.md
