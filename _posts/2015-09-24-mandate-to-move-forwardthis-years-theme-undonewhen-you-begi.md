@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. However, if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. Th special opportunity for creative entrepreneurs to open up more possibilities. To REGISTER  http://j.mp/tahoe2016'
-datePublished: '2016-01-09T04:43:02.528Z'
-dateModified: '2016-01-09T04:42:58.543Z'
+datePublished: '2016-01-09T04:45:06.107Z'
+dateModified: '2016-01-09T04:45:02.271Z'
 author: []
 title: APEX
 tags:
