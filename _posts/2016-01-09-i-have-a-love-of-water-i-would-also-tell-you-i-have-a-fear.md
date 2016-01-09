@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T23:35:48.635Z'
-dateModified: '2016-01-09T23:35:42.997Z'
+datePublished: '2016-01-09T23:37:11.101Z'
+dateModified: '2016-01-09T23:37:07.668Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
@@ -22,8 +22,9 @@ url: i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear/index.html
 _type: Article
 
 ---
-# Moving Forward-The APEX Mandate
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de30b53-2d9c-4733-8f81-d17930e884ca.gif)
+
+# Moving Forward-The APEX Mandate
 
 ## I have a love of water; I would also tell you I have a fear of water. Allow me to explain. 
 
