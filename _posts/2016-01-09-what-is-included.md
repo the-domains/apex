@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T06:27:38.026Z'
-dateModified: '2016-01-09T06:27:33.280Z'
+datePublished: '2016-01-09T06:28:22.917Z'
+dateModified: '2016-01-09T06:28:16.822Z'
 title: What is included?
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
