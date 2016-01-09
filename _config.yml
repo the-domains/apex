@@ -47,8 +47,8 @@ color:
     - '#6b6b6d'
   brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     url: null
