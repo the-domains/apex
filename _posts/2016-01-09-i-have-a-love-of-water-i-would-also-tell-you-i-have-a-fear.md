@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T00:00:25.415Z'
-dateModified: '2016-01-10T00:00:19.154Z'
+datePublished: '2016-01-10T00:02:29.767Z'
+dateModified: '2016-01-10T00:02:24.902Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
@@ -41,6 +41,6 @@ A good story is one that has a character that is faced with conflict, facing fea
 
 Thats how **APEX** came about. I wanted to create a space where creatives and entrepreneurs could come togther and get real. I started Apex about four years ago and since then it has grown into something special. Because I believe we should  align ourselves with those who want to get into the arena with us and we should not listen to the critics who are outside the arena. 
 > 
-> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.- Teddy Roosevelt
+> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. -Teddy Roosevelt
 
 ## Dream. Risk. Hustle. Repeat.
