@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T04:25:18.956Z'
-dateModified: '2016-01-10T04:25:14.565Z'
+datePublished: '2016-01-10T05:33:52.299Z'
+dateModified: '2016-01-10T05:33:50.002Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
@@ -28,7 +28,7 @@ _type: Article
 
 ## I have a love of water; I would also tell you I have a fear of water. Allow me to explain. 
 
-Do you remember as a kid what it felt like to jump into the deep end of the pool? Maybe you are like me and would try and talk yourself out of it? That is what we tend to do when faced with a fear or doubt. But, what if jumping in the deep end meant you could go on an incredible journey into new territory. Forget about the rush that you feel once you're in the deep end. Once under water, your able to see the sun dance on the water in new ways you could never see while on top of the water. What if at that moment you could just relax, breath, and silence yourself? What would come up in that internal conversation and would that conversation allow you to shift how you might be showing up in life? How might you be showing up in your business or your relationships? Sometimes the killer of relationships isn't a lack of trust, a lack of communication or arguing with your significant other. It's pure indifference. We go into "autopilot" mode and become indifferent toward one another or even our current position in life. 
+Do you remember as a kid what it felt like to jump into the deep end of the pool? Maybe you are like me and would try and talk yourself out of it? That is what we tend to do when faced with a fear or doubt. But, what if jumping in the deep end meant you could go on an incredible journey into new territory. Forget about the rush that you feel once you're in the deep end. Once under water, your able to see the sun dance on the water in new ways you could never see while on top of the water. What if at that moment you could just relax, breath, silence yourself and take it all in? What would come up in that internal conversation and would that conversation allow you to shift how you might be showing up in life? How might you be showing up in your business or your relationships? Sometimes the killer of relationships isn't a lack of trust, a lack of communication or arguing with your significant other. It's pure indifference. We go into "autopilot" mode and become indifferent toward one another or even our current position in life. 
 
 I have sat in this struggle many times in my life. What I have learned by sitting in this process is that the soul usually knows what to do to heal itself. The challenge is to silence the mind. Part of the process of progress is the struggle; it is the fear. That's why it is important to align yourself with those on the same mission as you. I have a close friend maybe more like a mentor and he has said to me on more than one occasion "Kick at indifference until it bleeds life."
 
@@ -44,4 +44,4 @@ Thats how **APEX** came about. I wanted to create a space where creatives and en
 > 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. -Teddy Roosevelt
 
-## Dream. Risk. Hustle. Repeat.
+## So who is ready to jump into the deep end of the pool?
