@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T06:28:22.917Z'
-dateModified: '2016-01-09T06:28:16.822Z'
-title: What is included?
+datePublished: '2016-01-10T05:35:10.756Z'
+dateModified: '2016-01-10T05:35:05.044Z'
+title: 'What is included:'
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
 published: true
@@ -22,7 +22,7 @@ url: what-is-included/index.html
 _type: Article
 
 ---
-# What is included?
+# What is included:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c867a4d90517af26350cdab92c9c8c9e7163f1d.jpg)
 
 * Accommodations at a Luxury Mountain Cabin in Lake Tahoe
