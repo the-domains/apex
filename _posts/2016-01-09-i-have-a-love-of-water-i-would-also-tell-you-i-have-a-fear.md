@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T05:33:52.299Z'
-dateModified: '2016-01-10T05:33:50.002Z'
+datePublished: '2016-01-10T05:39:48.114Z'
+dateModified: '2016-01-10T05:39:40.935Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
@@ -44,4 +44,6 @@ Thats how **APEX** came about. I wanted to create a space where creatives and en
 > 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. -Teddy Roosevelt
 
-## So who is ready to jump into the deep end of the pool?
+## So who is ready to jump into the deep end of the pool? 
+
+I would love to hear from you... Hello@beauitfuloutcome.com
