@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T23:37:11.101Z'
-dateModified: '2016-01-09T23:37:07.668Z'
+datePublished: '2016-01-10T00:00:25.415Z'
+dateModified: '2016-01-10T00:00:19.154Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
@@ -22,15 +22,14 @@ url: i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de30b53-2d9c-4733-8f81-d17930e884ca.gif)
-
 # Moving Forward-The APEX Mandate
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de30b53-2d9c-4733-8f81-d17930e884ca.gif)
 
 ## I have a love of water; I would also tell you I have a fear of water. Allow me to explain. 
 
 Do you remember as a kid what it felt like to jump into the deep end of the pool? Maybe you are like me and would try and talk yourself out of it? That is what we tend to do when faced with a fear or doubt. But, what if jumping in the deep end meant you could go on an incredible journey into new territory. Forget about the rush that you feel once you're in the deep end. Once under water, your able to see the sun dance on the water in new ways you could never see while on top of the water. What if at that moment you could just relax, breath, and silence yourself? What would come up in that internal conversation and would that conversation allow you to shift how you might be showing up in life? How might you be showing up in your business or your relationships? Sometimes the killer of relationships isn't a lack of trust, a lack of communication or arguing with your significant other. It's pure indifference. We go into "autopilot" mode and become indifferent toward one another or even our current position in life. 
 
-I have sat in this struggle many times in my life. What I have learned by sitting in this process is that the soul usually knows what to do to heal itself. The challenge is to silence the mind. Part of the process of progress is the struggle; it is the fear. That's why it is important to align yourself with those on the same mission as you. I have a close friend maybe more like a mentor and he has said to me on more than one occasion "Kick at indifference unitil it bleeds life."
+I have sat in this struggle many times in my life. What I have learned by sitting in this process is that the soul usually knows what to do to heal itself. The challenge is to silence the mind. Part of the process of progress is the struggle; it is the fear. That's why it is important to align yourself with those on the same mission as you. I have a close friend maybe more like a mentor and he has said to me on more than one occasion "Kick at indifference until it bleeds life."
 
 > Kick at indifference until it bleeds life - Dan Tocchini
 
@@ -40,7 +39,7 @@ I recognize when fear paralyzes me, it is a good sign._Fear is an indicator that
 
 A good story is one that has a character that is faced with conflict, facing fear or struggle and must dig deep to find resolve. When we choose our ambitions, they should be difficult, and we should anticipate and even welcome conflict.
 
-Thats how **APEX** came about. I wanted to create a space where creatives and entrepreneurs could come togther and get real. I started Apex about four years ago and since then it has grown into something special. Because I believe we should  align ourselves with those who want to get into the arena with us and we should  listen to the critics who are outside the arena. 
+Thats how **APEX** came about. I wanted to create a space where creatives and entrepreneurs could come togther and get real. I started Apex about four years ago and since then it has grown into something special. Because I believe we should  align ourselves with those who want to get into the arena with us and we should not listen to the critics who are outside the arena. 
 > 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.- Teddy Roosevelt
 
