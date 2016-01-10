@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T19:02:06.913Z'
-dateModified: '2016-01-09T19:02:02.405Z'
+datePublished: '2016-01-10T05:34:27.666Z'
+dateModified: '2016-01-10T05:34:24.082Z'
 title: Ready to be Undone?
 author: []
 sourcePath: _posts/2016-01-09-ready-to-be-undone.md
