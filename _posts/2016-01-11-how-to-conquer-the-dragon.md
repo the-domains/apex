@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:01:30.624Z'
-dateModified: '2016-01-11T23:01:24.970Z'
+datePublished: '2016-01-11T23:04:41.133Z'
+dateModified: '2016-01-11T23:04:35.106Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -60,11 +60,11 @@ At the end of 2010, I was stuck. I was stuck in business, relationships, family 
 
 So I chose a word, focused and journaled about it. I repeated this same project the following year and then again. This year, I began my 6th Word of the Year project. My life hasn't been the same.
 
+> Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
+
 One reason I love this project is it helps develop a picture of how to get where I want to go.
 
 Over the next couple of weeks, I'm going to share with you how you can defeat fear by participating in a Word of the Year project. I'll share with you how to choose a word, what to do when you've chosen your word, and how to keep the momentum going throughout the year.
-
-> Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
 
 The question is, _"Will you do the work?"_
 
