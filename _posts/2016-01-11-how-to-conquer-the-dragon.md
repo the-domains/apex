@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:44:44.275Z'
-dateModified: '2016-01-11T22:44:38.433Z'
+datePublished: '2016-01-11T22:48:23.931Z'
+dateModified: '2016-01-11T22:48:18.239Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # How to Conquer the Dragon.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e867400-eedc-4e19-b7bc-30bb96f78228.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2d3f053e6cf138ec11b03fc7b7d0c641b08af3c.jpg)
 
 Growing up I believed there were two type of people - creative and non-creative. I fell in the non-creative category. I believed this theory well into my 30's. At some point, though, it dawned on me that everyone is creative. We simply create in different and unique ways.
 
@@ -46,13 +46,13 @@ When I just focus on the next step, and I take that step, the following step bec
 Today, if you find yourself paralyzed by fear, I encourage to think about the next thing you know you need to do. Then do it.
 
 After you finish that thing, find the next thing, and do it. Repeat, wash, rinse. Eventually, you'll find yourself at your goal!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77a60001-20ad-4b1c-b0fd-e4d9feb622a3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d121a0f1aaf687258ee35ff9dbebcd1c9a09803a.jpg)
 
 ## Pick a Word
 
 One reason we fear is because we have no clue how to get where we know we want to go.
 
-At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there.In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year.They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife.
+At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there. In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year. They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife.
 
 So I chose a word, focused and journaled about it. I repeated this same project the following year and then again. This year, I began my 6th Word of the Year project. My life hasn't been the same.
 
@@ -62,13 +62,13 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 
 > Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
 
-The question is, "Will you do the work?"
+**The question is, "Will you do the work?"**
 
-# -[Andy Bondurant][0]
+# 
 
-## [@
+## 
 
-andybondurant][0]
+Article written by [andybondurant][0]
 
 Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
 
