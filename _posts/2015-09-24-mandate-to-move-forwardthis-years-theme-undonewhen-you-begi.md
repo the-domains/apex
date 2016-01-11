@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Apex 2016 is sold out to get on the waiting list. Email Hello@beautifuloutcome.com
-datePublished: '2016-01-11T21:10:19.140Z'
-dateModified: '2016-01-11T21:10:14.964Z'
+datePublished: '2016-01-11T21:14:00.246Z'
+dateModified: '2016-01-11T21:13:48.916Z'
 author: []
 title: APEX
 tags:
@@ -29,4 +29,4 @@ _context: 'http://schema.org'
 
 # APEX
 
-2016 Tahoe workshop is sold out but, you can still get on our waiting list. hello@beautifuloutcome.com
+2016 Tahoe workshop is sold out. Email us hello@beautifuloutcome.com to be added to our waiting list.
