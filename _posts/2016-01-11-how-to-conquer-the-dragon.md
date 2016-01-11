@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:53:09.031Z'
-dateModified: '2016-01-11T22:53:05.570Z'
+datePublished: '2016-01-11T22:57:08.185Z'
+dateModified: '2016-01-11T22:57:03.086Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -68,11 +68,15 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 
 **The question is, "Will you do the work?"**
 
+****
+
+****
+
 # 
 
 ## 
 
-Article written by [andybondurant][0] follow him on twitter.
+Article written by [Andy Bondurant][0]
 
 Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
 
