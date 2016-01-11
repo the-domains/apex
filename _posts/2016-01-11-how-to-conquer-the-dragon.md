@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:48:23.931Z'
-dateModified: '2016-01-11T22:48:18.239Z'
+datePublished: '2016-01-11T22:49:19.000Z'
+dateModified: '2016-01-11T22:49:13.895Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -52,7 +52,7 @@ After you finish that thing, find the next thing, and do it. Repeat, wash, rinse
 
 One reason we fear is because we have no clue how to get where we know we want to go.
 
-At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there. In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year. They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife.
+At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there.  In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year. They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife.
 
 So I chose a word, focused and journaled about it. I repeated this same project the following year and then again. This year, I began my 6th Word of the Year project. My life hasn't been the same.
 
