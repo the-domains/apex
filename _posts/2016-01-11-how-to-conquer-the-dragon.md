@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:11:56.255Z'
-dateModified: '2016-01-11T23:11:52.567Z'
+datePublished: '2016-01-11T23:15:29.841Z'
+dateModified: '2016-01-11T23:15:26.230Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -37,6 +37,8 @@ As creatives, it's our job to determine how to overcome the dragon. When we do, 
 
 How do you overcome fear? There lots answers this question, but I've found 2 ways that never lack results.
 
+## 
+
 ## Take a Step.
 
 Most times my fear is triggered by focusing on the wrong thing. It comes by looking at the end goal, the big picture or the final result rather than the next step. Here's the kicker, the end goal always seems insurmountable, but the next step is equally simple and easy.
@@ -46,6 +48,8 @@ When I just focus on the next step, and I take that step, the following step bec
 Today, if you find yourself paralyzed by fear, I encourage to think about the next thing you know you need to do. Then do it.
 
 After you finish that thing, find the next thing, and do it. Repeat, wash, rinse. Eventually, you'll find yourself at your goal!
+
+## 
 
 ## 
 
