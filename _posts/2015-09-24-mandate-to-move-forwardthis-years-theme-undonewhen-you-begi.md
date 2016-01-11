@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:ba9a6396-61ab-46a2-9acc-214a68730ff1'
 inLanguage: null
 starred: true
 keywords: []
-description: 'When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. However, if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. Th special opportunity for creative entrepreneurs to open up more possibilities. To REGISTER  http://j.mp/tahoe2016'
-datePublished: '2016-01-09T05:07:05.448Z'
-dateModified: '2016-01-09T04:51:08.990Z'
+description: Apex 2016 is sold out to get on the waiting list. Email Hello@beautifuloutcome.com
+datePublished: '2016-01-11T21:01:06.499Z'
+dateModified: '2016-01-11T21:01:00.384Z'
 author: []
 title: APEX
 tags:
@@ -21,6 +20,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: apex/index.html
 _type: Article
 _context: 'http://schema.org'
 
@@ -29,22 +29,6 @@ _context: 'http://schema.org'
 
 # APEX
 
-# [Mandate to move forward][0]
+# [2016 Workshop is sold out. Get on the waiting list.][0]
 
-[2016 Workshop is sold out. Get on the waiting list.][1]
-
-When you begin to AWAKEN to areas of your life that you have been deceived in, what begins to happen is a time of UNDOING that you cannot control or handle. What's left over in life is sometimes a wake of hurt, undone areas of life, confusion, even emptiness. This is not UN-Normal...in every man's journey this undoing is a time of pruning, that if navigated right, can take you to the next adventure and dream that you were destined and designed to accomplish. We must be undone for the next season to take place. You cannot do this alone only with other men, on the same journey, on the same mission, at the same point of life, can you reach your next Apex! 
-
-Ready to be Undone?
-
-What you can expect:
-
-* Men who have hit the wall and are on the other side
-* Speakers to share deep and real journeys that will inspire you for the journey
-* Time to listen and explore into your life's depths, and walk away with new tools in the tool belt of life
-* Atmosphere of one of the most Beautiful places on earth -- Lake Tahoe
-* Get Coaching in life, marriage, business and more from men who have journeyed there and back
-* This is limited to a select group of men who know they have more to give, desire to do the greater, and understand it can be painful climb higher....but are willing to risk. 
-
-[0]: http://www.beautifuloutcome.com/new-products/apex-creative-workshop
-[1]: http://j.mp/tahoe2016
+[0]: http://j.mp/tahoe2016
