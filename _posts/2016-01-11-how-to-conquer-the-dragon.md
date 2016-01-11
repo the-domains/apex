@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:08:38.255Z'
-dateModified: '2016-01-11T23:08:32.856Z'
+datePublished: '2016-01-11T23:11:56.255Z'
+dateModified: '2016-01-11T23:11:52.567Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -27,9 +27,7 @@ _type: Article
 
 Growing up I believed there were two type of people - creative and non-creative. I fell in the non-creative category. I believed this theory well into my 30's. At some point, though, it dawned on me that everyone is creative. We simply create in different and unique ways.
 
-Don't ask me to draw a picture, paint a painting or sculpt anything. However, give me a few minutes, an audience and a microphone, and I have a chance. Better yet, give me an organization and a team, and I can create with the best of them. I am creative, and so are you.
-
-As creatives, fear is our biggest enemy. In his book, Do the Work, Steven Pressfield refers to fear as the Resistance. He compares fear to a 10 foot dragon fighting our call to create.
+Don't ask me to draw a picture, paint a painting or sculpt anything. However, give me a few minutes, an audience and a microphone, and I have a chance. Better yet, give me an organization and a team, and I can create with the best of them. I am creative, and so are you. As creatives, fear is our biggest enemy. In his book, Do the Work, Steven Pressfield refers to fear as the Resistance. He compares fear to a 10 foot dragon fighting our call to create.
 
 > Fear is a Dragon that wants to destroy your dream.
 > 
@@ -55,9 +53,7 @@ After you finish that thing, find the next thing, and do it. Repeat, wash, rinse
 
 One reason we fear is because we have no clue how to get where we know we want to go.
 
-At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there.  In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year. They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife.
-
-So I chose a word, focused and journaled about it. I repeated this same project the following year and then again. This year, I began my 6th Word of the Year project. My life hasn't been the same.
+At the end of 2010, I was stuck. I was stuck in business, relationships, family and finances. I was more that stuck...I was in virtual chains. Worst of all, I had no idea how to get out. I knew freedom was possible, but I was clueless on how to get there.  In January of 2011, my wife told me about a project her and a friend were beginning - Word of the Year. They chose one word they wanted to see happen or become a part of their life. Then she said she was going to focus on her word for the entire year. I thought this sounded interesting, and that alone was unusual. My normal response is to ignore these types of ideas from my wife. So I chose a word, focused and journaled about it. I repeated this same project the following year and then again. This year, I began my 6th Word of the Year project. My life hasn't been the same.
 
 > Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
 
