@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:04:41.133Z'
-dateModified: '2016-01-11T23:04:35.106Z'
+datePublished: '2016-01-11T23:08:38.255Z'
+dateModified: '2016-01-11T23:08:32.856Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -48,7 +48,6 @@ When I just focus on the next step, and I take that step, the following step bec
 Today, if you find yourself paralyzed by fear, I encourage to think about the next thing you know you need to do. Then do it.
 
 After you finish that thing, find the next thing, and do it. Repeat, wash, rinse. Eventually, you'll find yourself at your goal!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3a10c5e7ccac4e0b13f83f2f13e3683413c3d83.jpg)
 
 ## 
 
