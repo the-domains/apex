@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:49:19.000Z'
-dateModified: '2016-01-11T22:49:13.895Z'
+datePublished: '2016-01-11T22:50:30.536Z'
+dateModified: '2016-01-11T22:50:25.481Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -48,6 +48,8 @@ Today, if you find yourself paralyzed by fear, I encourage to think about the ne
 After you finish that thing, find the next thing, and do it. Repeat, wash, rinse. Eventually, you'll find yourself at your goal!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d121a0f1aaf687258ee35ff9dbebcd1c9a09803a.jpg)
 
+## 
+
 ## Pick a Word
 
 One reason we fear is because we have no clue how to get where we know we want to go.
@@ -68,7 +70,7 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 
 ## 
 
-Article written by [andybondurant][0]
+Article written by [andybondurant][0] follow him on twitter.
 
 Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
 
