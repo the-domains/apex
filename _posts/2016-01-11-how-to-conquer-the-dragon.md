@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:52:05.096Z'
-dateModified: '2016-01-11T22:52:01.224Z'
+datePublished: '2016-01-11T22:53:09.031Z'
+dateModified: '2016-01-11T22:53:05.570Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -32,6 +32,8 @@ Don't ask me to draw a picture, paint a painting or sculpt anything. However, gi
 As creatives, fear is our biggest enemy. In his book, Do the Work, Steven Pressfield refers to fear as the Resistance. He compares fear to a 10 foot dragon fighting our call to create.
 
 > Fear is a Dragon that wants to destroy your dream.
+> 
+> 
 
 As creatives, it's our job to determine how to overcome the dragon. When we do, we are free to design and build what's in our head and heart.
 
@@ -70,6 +72,8 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 
 ## 
 
-Article written by [andybondurant][0] follow him on twitter.Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
+Article written by [andybondurant][0] follow him on twitter.
+
+Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
 
 [0]: https://twitter.com/andybondurant
