@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:42:32.649Z'
-dateModified: '2016-01-11T22:42:16.760Z'
+datePublished: '2016-01-11T22:44:44.275Z'
+dateModified: '2016-01-11T22:44:38.433Z'
 title: How to Conquer the Dragon.
 author: []
+sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
-published: true
 url: how-to-conquer-the-dragon/index.html
 _type: Article
 
@@ -63,3 +63,13 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 > Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
 
 The question is, "Will you do the work?"
+
+# -[Andy Bondurant][0]
+
+## [@
+
+andybondurant][0]
+
+Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
+
+[0]: https://twitter.com/andybondurant
