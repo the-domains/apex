@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T06:28:57.421Z'
-dateModified: '2016-01-09T06:28:40.648Z'
+datePublished: '2016-01-11T19:22:29.499Z'
+dateModified: '2016-01-11T18:37:20.113Z'
 title: 'Takeaways:'
 author: []
 sourcePath: _posts/2016-01-09-takeaways.md
