@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T22:57:08.185Z'
-dateModified: '2016-01-11T22:57:03.086Z'
+datePublished: '2016-01-11T23:01:30.624Z'
+dateModified: '2016-01-11T23:01:24.970Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -62,11 +62,11 @@ So I chose a word, focused and journaled about it. I repeated this same project 
 
 One reason I love this project is it helps develop a picture of how to get where I want to go.
 
-_Over the next couple of weeks, I'm going to share with you how you can defeat fear by participating in a Word of the Year project. I'll share with you how to choose a word, what to do when you've chosen your word, and how to keep the momentum going throughout the year._
+Over the next couple of weeks, I'm going to share with you how you can defeat fear by participating in a Word of the Year project. I'll share with you how to choose a word, what to do when you've chosen your word, and how to keep the momentum going throughout the year.
 
 > Fear is a dragon that wants to devour your dreams, but you have the power to overcome it.
 
-**The question is, "Will you do the work?"**
+The question is, _"Will you do the work?"_
 
 ****
 
@@ -78,6 +78,6 @@ _Over the next couple of weeks, I'm going to share with you how you can defeat f
 
 Article written by [Andy Bondurant][0]
 
-Founder. Builder. Leader. Father. Provider. Author. Extra-ordinary.
+
 
 [0]: https://twitter.com/andybondurant
