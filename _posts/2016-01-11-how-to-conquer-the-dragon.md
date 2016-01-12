@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T23:15:29.841Z'
-dateModified: '2016-01-11T23:15:26.230Z'
+datePublished: '2016-01-12T00:32:17.910Z'
+dateModified: '2016-01-12T00:32:15.530Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -22,8 +22,9 @@ url: how-to-conquer-the-dragon/index.html
 _type: Article
 
 ---
-# How to Conquer the Dragon.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82cabe3e16393dc7c00886b2be058653ee9a102c.jpg)
+
+# How to Conquer the Dragon.
 
 Growing up I believed there were two type of people - creative and non-creative. I fell in the non-creative category. I believed this theory well into my 30's. At some point, though, it dawned on me that everyone is creative. We simply create in different and unique ways.
 
