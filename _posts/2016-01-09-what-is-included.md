@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T05:54:59.248Z'
-dateModified: '2016-01-12T05:54:55.219Z'
+datePublished: '2016-01-12T05:57:24.829Z'
+dateModified: '2016-01-12T05:57:20.846Z'
 title: 'What is included:'
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
@@ -22,9 +22,10 @@ url: what-is-included/index.html
 _type: Article
 
 ---
+# What is included:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6b9e1e90616c8a0e9e69d995d26916b472ff00.jpg)
 
-# What is included:
+## 3 nights in Lake Tahoe
 
 * Accommodations at a Luxury Mountain Cabin in Lake Tahoe
 * Meals at cabin prepared by a Personal Chef
