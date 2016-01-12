@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T06:03:43.778Z'
-dateModified: '2016-01-12T06:03:40.529Z'
+datePublished: '2016-01-12T06:05:32.455Z'
+dateModified: '2016-01-12T06:05:28.807Z'
 title: 'What is included:'
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
@@ -22,9 +22,8 @@ url: what-is-included/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/159f7c21ac65d25a147005c0869a876589f2e883.jpg)
-
 # What is included:
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/159f7c21ac65d25a147005c0869a876589f2e883.jpg)
 
 ## 3 nights in Lake Tahoe
 
