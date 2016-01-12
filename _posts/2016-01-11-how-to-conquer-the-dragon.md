@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T00:32:17.910Z'
-dateModified: '2016-01-12T00:32:15.530Z'
+datePublished: '2016-01-12T01:02:15.550Z'
+dateModified: '2016-01-12T01:02:11.214Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
@@ -40,7 +40,7 @@ How do you overcome fear? There lots answers this question, but I've found 2 way
 
 ## 
 
-## Take a Step.
+## 1.Take a Step.
 
 Most times my fear is triggered by focusing on the wrong thing. It comes by looking at the end goal, the big picture or the final result rather than the next step. Here's the kicker, the end goal always seems insurmountable, but the next step is equally simple and easy.
 
@@ -54,7 +54,7 @@ After you finish that thing, find the next thing, and do it. Repeat, wash, rinse
 
 ## 
 
-## Pick a Word
+## 2.Pick a Word
 
 One reason we fear is because we have no clue how to get where we know we want to go.
 
