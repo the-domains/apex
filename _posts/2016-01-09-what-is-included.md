@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T05:51:47.993Z'
-dateModified: '2016-01-12T05:51:43.440Z'
+datePublished: '2016-01-12T05:54:36.876Z'
+dateModified: '2016-01-12T05:54:34.934Z'
 title: 'What is included:'
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
@@ -22,7 +22,7 @@ url: what-is-included/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c867a4d90517af26350cdab92c9c8c9e7163f1d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab6b9e1e90616c8a0e9e69d995d26916b472ff00.jpg)
 
 # What is included:
 
