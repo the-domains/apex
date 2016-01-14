@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T01:11:47.446Z'
-dateModified: '2016-01-12T01:11:42.728Z'
+datePublished: '2016-01-14T20:00:21.836Z'
+dateModified: '2016-01-14T20:00:16.232Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
