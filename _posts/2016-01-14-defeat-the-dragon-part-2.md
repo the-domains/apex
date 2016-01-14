@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T19:50:35.274Z'
-dateModified: '2016-01-14T19:50:22.570Z'
+datePublished: '2016-01-14T19:58:50.911Z'
+dateModified: '2016-01-14T19:58:45.827Z'
 title: Defeat the Dragon Part 2
 author: []
+sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
-published: true
 url: defeat-the-dragon-part-2/index.html
 _type: Article
 
 ---
 # Defeat the Dragon Part 2
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1561585a-8243-4f06-bf14-096813d97db4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc57156190cb6a7e41eab86b8f422e6d289b50ae.jpg)
 
 Welcome back. I applaud you. The famous line in Alcoholics Anonymous is the first step to solving the problem is admitting you have a problem.
 
@@ -40,7 +40,7 @@ Fear wants to destroy your life, your dream, your creativity. Like I wrote in th
 Today I'm going to share with you how you start your Word of the Year project. How do you choose a word?
 
 First, let me encourage you, there truly is no wrong way to choose a word. Some people know immediately what their word is supposed to be - freedom, attack, open, breakthrough. Other people struggle with what it is they are to focus on.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6646e5b3-9b56-4ebc-9c90-0ee48cf38496.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ce862ecb954485eede73a442e4628849fe06a2a.jpg)
 
 These 5 steps are meant for you if you are struggling to choose a word.
 
