@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T19:58:50.911Z'
-dateModified: '2016-01-14T19:58:45.827Z'
+datePublished: '2016-01-14T20:00:55.522Z'
+dateModified: '2016-01-14T20:00:48.389Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
@@ -75,3 +75,8 @@ This is actually the most critical step of the entire process. Choosing a word a
 There are a ton of ways you can make acting on your word practical. Next week, I will share with you 5-6 ideas on how you can act on your word.
 
 Until then, keep walking.
+
+_Article written by: [Andy Bondurant][0]_
+undefined
+
+[0]: https://twitter.com/andybondurant
