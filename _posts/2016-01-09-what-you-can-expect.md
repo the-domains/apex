@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-09T01:55:18.197Z'
-dateModified: '2016-01-09T01:55:04.167Z'
+datePublished: '2016-01-14T20:00:01.370Z'
+dateModified: '2016-01-14T19:59:58.312Z'
 title: 'What you can expect:'
 author: []
+sourcePath: _posts/2016-01-09-what-you-can-expect.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-what-you-can-expect.md
-published: true
 url: what-you-can-expect/index.html
 _type: Article
 
