@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T07:09:49.669Z'
-dateModified: '2016-01-15T07:09:48.843Z'
+datePublished: '2016-01-15T20:32:17.085Z'
+dateModified: '2016-01-15T20:32:13.515Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Defeat the Dragon Part 2
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51372e1959bc45456889d33d581b610767564abc.jpg)
 
 Welcome back. I applaud you. The famous line in Alcoholics Anonymous is the first step to solving the problem is admitting you have a problem.
 
@@ -39,7 +40,6 @@ Fear wants to destroy your life, your dream, your creativity. Like I wrote in th
 Today I'm going to share with you how you start your Word of the Year project. How do you choose a word?
 
 First, let me encourage you, there truly is no wrong way to choose a word. Some people know immediately what their word is supposed to be - freedom, attack, open, breakthrough. Other people struggle with what it is they are to focus on.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51372e1959bc45456889d33d581b610767564abc.jpg)
 
 These 5 steps are meant for you if you are struggling to choose a word.
 
