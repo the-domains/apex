@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:16:09.462Z'
+datePublished: '2016-01-15T04:16:09.504Z'
 dateModified: '2016-01-15T04:16:09.260Z'
 title: Moving Forward-The APEX Mandate
 author: []
