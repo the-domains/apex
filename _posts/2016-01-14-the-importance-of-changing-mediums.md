@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:26:28.616Z'
-dateModified: '2016-01-14T20:26:16.751Z'
+datePublished: '2016-01-15T04:05:55.476Z'
+dateModified: '2016-01-15T04:05:49.530Z'
 title: The Importance of Changing Mediums
 author: []
+sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
-published: true
 url: the-importance-of-changing-mediums/index.html
 _type: Article
 
@@ -77,7 +77,7 @@ We need more renaissance men and women. So where does that leave you? Probably a
 
 May you embrace multiple mediums and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
 
-**When was the last time you tried tackling a new medium?**
+When was the last time you tried tackling a new medium?
 
 [0]: http://goinswriter.com/blog/
 [1]: http://www.museupicasso.bcn.cat/en/
