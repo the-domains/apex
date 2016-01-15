@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:16:09.819Z'
-dateModified: '2016-01-15T04:16:09.462Z'
+datePublished: '2016-01-15T04:16:09.973Z'
+dateModified: '2016-01-15T04:16:09.504Z'
 title: Moving Forward-The APEX Mandate
 author: []
 sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
