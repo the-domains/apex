@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T20:59:10.035Z'
-dateModified: '2016-01-15T20:59:09.559Z'
+datePublished: '2016-01-15T21:16:09.487Z'
+dateModified: '2016-01-15T21:16:04.405Z'
 title: The Importance of Changing Mediums
 author: []
 sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # The Importance of Changing Mediums
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15532b2a36772dbbe9afd20754d8508dde10f8e9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1961434b24c3c96996b973ee6dbef8e9804a0834.jpg)
 
 ## Why We Need More Polymaths in the 21st Century...[by Jeff Goins][0]
 
