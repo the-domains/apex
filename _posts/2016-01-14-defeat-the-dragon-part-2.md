@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:01:31.641Z'
-dateModified: '2016-01-14T20:01:27.658Z'
+datePublished: '2016-01-15T04:07:11.370Z'
+dateModified: '2016-01-15T03:57:41.645Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Defeat the Dragon Part 2
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21eef358718fc56db20bce0553438ffcdffb2730.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/53b2ed971e49998c15312cc230874a3ab3aa5573.jpg)
 
 Welcome back. I applaud you. The famous line in Alcoholics Anonymous is the first step to solving the problem is admitting you have a problem.
 
@@ -76,7 +76,4 @@ There are a ton of ways you can make acting on your word practical. Next week, I
 
 Until then, keep walking.
 
-_Article written by: [Andy Bondurant][0]_
-undefined
-
-[0]: https://twitter.com/andybondurant
+_Article written by: Andy Bondurant_
