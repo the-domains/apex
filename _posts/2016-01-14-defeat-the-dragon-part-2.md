@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T07:09:49.022Z'
-dateModified: '2016-01-15T07:09:48.453Z'
+datePublished: '2016-01-15T07:09:49.669Z'
+dateModified: '2016-01-15T07:09:48.843Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
