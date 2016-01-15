@@ -33,9 +33,9 @@ purpose:
     url: null
     item: null
 color:
-  saturation: 0.6138561
+  saturation: 0.5870032
   brandStrength: 0
-  lightness: 0.5977443
+  lightness: 0.1519871
   brandColors:
     - '#f2f2f4'
     - '#f0b642'
