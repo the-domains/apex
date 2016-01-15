@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:16:10.674Z'
-dateModified: '2016-01-15T21:16:10.221Z'
+datePublished: '2016-01-15T21:16:10.967Z'
+dateModified: '2016-01-15T21:16:10.159Z'
 title: The Importance of Changing Mediums
 author: []
 sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
