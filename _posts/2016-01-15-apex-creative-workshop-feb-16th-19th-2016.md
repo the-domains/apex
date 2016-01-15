@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T21:26:10.059Z'
-dateModified: '2016-01-15T21:26:09.424Z'
+datePublished: '2016-01-15T21:26:10.525Z'
+dateModified: '2016-01-15T21:26:09.470Z'
 title: Apex Creative Workshop Feb 16th-19th 2016
 author: []
 sourcePath: _posts/2016-01-15-apex-creative-workshop-feb-16th-19th-2016.md
