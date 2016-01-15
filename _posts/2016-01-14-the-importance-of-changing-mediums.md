@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:45:11.742Z'
-dateModified: '2016-01-15T04:45:11.074Z'
+datePublished: '2016-01-15T18:12:17.394Z'
+dateModified: '2016-01-15T18:12:11.898Z'
 title: The Importance of Changing Mediums
 author: []
 sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
@@ -73,9 +73,8 @@ We need more renaissance men and women. So where does that leave you? Probably a
 
 1. **Don't long for a better life --- live the one you have**. "Wherever you are," missionary Jim Elliott once said, "be all there." Making the most of your current reality is the best practice for what's to come. I write more about this in _[The Art of Work][6]._
 2. **Don't get stuck in a single pursuit --- create a body of work.** Like Picasso, keep looking for other skills and interests you can develop that will complement your core. You never know where a new fascination might lead.
-3. **Don't be afraid to change mediums --- keep trying new things.**Sometimes, the way we get to our best work is by quitting something else. As evidenced in the life of [Walt Disney][7], there is power in the pivot.
-
-May you embrace multiple mediums and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
+3. **Don't be afraid to change mediums --- keep trying new things.**Sometimes, the way we get to our best work is by quitting something else. As evidenced in the life of Walt Disney, there is power in the pivot. 
+4. May you embrace multiple mediums and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
 _When was the last time you tried tackling a new medium?_
 
 [0]: http://goinswriter.com/blog/
@@ -85,4 +84,3 @@ _When was the last time you tried tackling a new medium?_
 [4]: https://www.youtube.com/watch?v=QJORi5VO1F8
 [5]: http://amzn.to/1J48tFQ
 [6]: http://artofworkbook.com/
-[7]: https://medium.com/the-art-of-work/how-walt-disney-found-his-calling-583b8dcea32d?utm_content=bufferf6afc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
