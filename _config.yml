@@ -1,5 +1,4 @@
-favicon: null
-name: apex
+layout_spectrum: 0.51218
 opengraph:
   image: null
   type: null
@@ -33,7 +32,7 @@ purpose:
     url: null
     item: null
 color:
-  saturation: 0.5870032
+  saturation: 1
   brandStrength: 0
   lightness: 0.1519871
   brandColors:
@@ -48,8 +47,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.51218
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: apex
