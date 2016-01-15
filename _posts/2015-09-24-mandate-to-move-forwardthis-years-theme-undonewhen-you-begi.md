@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Apex 2016 is sold out to get on the waiting list. Email Hello@beautifuloutcome.com
-datePublished: '2016-01-15T04:51:44.526Z'
+datePublished: '2016-01-15T04:51:44.621Z'
 dateModified: '2016-01-15T04:51:44.446Z'
 author: []
 title: APEX
