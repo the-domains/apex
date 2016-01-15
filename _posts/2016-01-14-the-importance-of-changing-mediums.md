@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:05:56.223Z'
-dateModified: '2016-01-15T04:05:55.686Z'
+datePublished: '2016-01-15T04:39:19.751Z'
+dateModified: '2016-01-15T04:39:14.558Z'
 title: The Importance of Changing Mediums
 author: []
 sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
@@ -76,8 +76,7 @@ We need more renaissance men and women. So where does that leave you? Probably a
 3. **Don't be afraid to change mediums --- keep trying new things.**Sometimes, the way we get to our best work is by quitting something else. As evidenced in the life of [Walt Disney][7], there is power in the pivot.
 
 May you embrace multiple mediums and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
-
-When was the last time you tried tackling a new medium?
+_When was the last time you tried tackling a new medium?_
 
 [0]: http://goinswriter.com/blog/
 [1]: http://www.museupicasso.bcn.cat/en/
