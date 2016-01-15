@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T05:15:39.559Z'
+datePublished: '2016-01-15T05:15:39.532Z'
 dateModified: '2016-01-15T05:15:39.395Z'
 title: Ready to be Undone?
 author: []
