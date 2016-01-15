@@ -48,7 +48,7 @@ color:
   brandStrength: 0
   lightness: 0.25
   saturation: 0.8125
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose:
   - name: awareness
     url: null
