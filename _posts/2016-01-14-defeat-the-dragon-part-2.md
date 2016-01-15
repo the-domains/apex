@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:07:11.370Z'
+datePublished: '2016-01-15T04:07:11.406Z'
 dateModified: '2016-01-15T03:57:41.645Z'
 title: Defeat the Dragon Part 2
 author: []
