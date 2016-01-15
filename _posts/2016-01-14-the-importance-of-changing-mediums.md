@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T18:12:28.503Z'
-dateModified: '2016-01-15T18:12:27.673Z'
+datePublished: '2016-01-15T18:16:47.960Z'
+dateModified: '2016-01-15T18:16:31.009Z'
 title: The Importance of Changing Mediums
 author: []
 sourcePath: _posts/2016-01-14-the-importance-of-changing-mediums.md
@@ -22,8 +22,9 @@ url: the-importance-of-changing-mediums/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92950f8fa190c6c66c772d215043ca75ef24b695.jpg)
+
 # The Importance of Changing Mediums
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d15d5d297d75a353d181a1a62e66d700d881b97.jpg)
 
 ## Why We Need More Polymaths in the 21st Century...[by Jeff Goins][0]
 
@@ -74,7 +75,7 @@ We need more renaissance men and women. So where does that leave you? Probably a
 1. **Don't long for a better life --- live the one you have**. "Wherever you are," missionary Jim Elliott once said, "be all there." Making the most of your current reality is the best practice for what's to come. I write more about this in _[The Art of Work][6]._
 2. **Don't get stuck in a single pursuit --- create a body of work.** Like Picasso, keep looking for other skills and interests you can develop that will complement your core. You never know where a new fascination might lead.
 3. **Don't be afraid to change mediums --- keep trying new things.**Sometimes, the way we get to our best work is by quitting something else. As evidenced in the life of Walt Disney, there is power in the pivot. 
-4. May you embrace multiple mediums and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
+4. **Embrace multiple mediums** and become your own version of a renaissance man or woman. It just might be the most satisfying thing you do.
 _When was the last time you tried tackling a new medium?_
 
 [0]: http://goinswriter.com/blog/
