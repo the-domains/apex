@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T04:50:09.444Z'
-dateModified: '2016-01-15T04:50:09.370Z'
+datePublished: '2016-01-15T04:50:09.669Z'
+dateModified: '2016-01-15T04:50:09.444Z'
 title: Ready to be Undone?
 author: []
 sourcePath: _posts/2016-01-09-ready-to-be-undone.md
