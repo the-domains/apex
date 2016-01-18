@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:00:21.836Z'
-dateModified: '2016-01-14T20:00:16.232Z'
+datePublished: '2016-01-18T18:10:47.392Z'
+dateModified: '2016-01-18T18:10:43.275Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
