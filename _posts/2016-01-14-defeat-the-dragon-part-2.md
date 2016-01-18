@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T18:10:24.683Z'
-dateModified: '2016-01-15T20:38:58.721Z'
+datePublished: '2016-01-18T18:14:20.814Z'
+dateModified: '2016-01-18T18:14:17.274Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 # Defeat the Dragon Part 2
+
+by Andy Bondurant
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51372e1959bc45456889d33d581b610767564abc.jpg)
 
 Welcome back. I applaud you. The famous line in Alcoholics Anonymous is the first step to solving the problem is admitting you have a problem.
@@ -74,5 +76,3 @@ This is actually the most critical step of the entire process. Choosing a word a
 There are a ton of ways you can make acting on your word practical. Next week, I will share with you 5-6 ideas on how you can act on your word.
 
 Until then, keep walking.
-
-_Article written by: Andy Bondurant_
