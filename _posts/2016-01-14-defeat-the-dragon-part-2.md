@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T18:44:42.419Z'
-dateModified: '2016-01-18T18:44:39.534Z'
+datePublished: '2016-01-18T18:47:00.428Z'
+dateModified: '2016-01-18T18:46:56.826Z'
 title: Defeat the Dragon Part 2
 author: []
 sourcePath: _posts/2016-01-14-defeat-the-dragon-part-2.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Defeat the Dragon Part 2
 
-by Andy Bondurant
+## by Andy Bondurant
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58fad453d1624234290cb1195ad036b94af2ca83.jpg)
 
 Welcome back. I applaud you. The famous line in Alcoholics Anonymous is the first step to solving the problem is admitting you have a problem.
