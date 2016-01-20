@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T00:18:58.848Z'
-dateModified: '2016-01-16T00:18:53.998Z'
+datePublished: '2016-01-20T00:11:22.678Z'
+dateModified: '2016-01-20T00:11:15.672Z'
 title: Apex Creative Workshop Feb 16th-19th 2016
 author: []
 sourcePath: _posts/2016-01-15-apex-creative-workshop-feb-16th-19th-2016.md
@@ -25,6 +25,6 @@ _type: Article
 # Apex Creative Workshop Feb 16th-19th 2016
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea9772dc2508d6a6fae5c86eebc647d960ec7f2.jpg)
 
-[Click here to reserver your seat.][0]
+[Click here to reserve your seat.][0]
 
 [0]: https://www.universe.com/apex2016
