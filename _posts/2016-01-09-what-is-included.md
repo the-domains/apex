@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-12T06:05:32.455Z'
-dateModified: '2016-01-12T06:05:28.807Z'
+datePublished: '2016-01-20T00:10:12.342Z'
+dateModified: '2016-01-20T00:10:07.309Z'
 title: 'What is included:'
 author: []
 sourcePath: _posts/2016-01-09-what-is-included.md
