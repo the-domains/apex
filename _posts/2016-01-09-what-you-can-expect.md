@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:00:01.370Z'
-dateModified: '2016-01-14T19:59:58.312Z'
+datePublished: '2016-01-20T00:09:43.894Z'
+dateModified: '2016-01-20T00:09:35.486Z'
 title: 'What you can expect:'
 author: []
 sourcePath: _posts/2016-01-09-what-you-can-expect.md
