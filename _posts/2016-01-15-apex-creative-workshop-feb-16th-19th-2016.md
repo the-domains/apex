@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T00:11:22.686Z'
+datePublished: '2016-01-20T00:11:22.711Z'
 dateModified: '2016-01-20T00:11:15.672Z'
 title: Apex Creative Workshop Feb 16th-19th 2016
 author: []
