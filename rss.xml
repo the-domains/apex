@@ -4,7 +4,7 @@
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 18:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jan 2016 00:09:45 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[APEX]]></title>
@@ -75,7 +75,7 @@
             <description><![CDATA[<article><h1>What you can expect:</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d549358b2f5f86817faf6c6399cd757d9b1fc95.jpg"></article>]]></description>
             <link>http://apex.vision/what-you-can-expect/index.html</link>
             <guid isPermaLink="false">c5cf707c-026b-4e63-93bf-0faa6dad4d32</guid>
-            <pubDate>Thu, 14 Jan 2016 20:00:01 GMT</pubDate>
+            <pubDate>Wed, 20 Jan 2016 00:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
