@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T00:10:26.776Z'
+datePublished: '2016-01-20T00:10:26.803Z'
 dateModified: '2016-01-20T00:10:24.031Z'
 title: 'Takeaways:'
 author: []
