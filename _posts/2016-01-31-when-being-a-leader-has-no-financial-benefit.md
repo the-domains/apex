@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T05:11:35.832Z'
+datePublished: '2016-01-31T05:11:35.833Z'
 dateModified: '2016-01-31T05:11:33.482Z'
 title: When being a leader has no financial benefit.
 author: []
