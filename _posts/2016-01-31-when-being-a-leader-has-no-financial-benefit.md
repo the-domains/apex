@@ -6,27 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T05:04:50.084Z'
-dateModified: '2016-01-31T05:04:35.711Z'
+datePublished: '2016-01-31T05:09:44.069Z'
+dateModified: '2016-01-31T05:09:41.079Z'
 title: When being a leader has no financial benefit.
 author: []
+sourcePath: _posts/2016-01-31-when-being-a-leader-has-no-financial-benefit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-when-being-a-leader-has-no-financial-benefit.md
-published: true
 url: when-being-a-leader-has-no-financial-benefit/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/871b378f-1f55-423b-a09a-4e1dd9312df2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c98b6ec67ad0ce4f1d378c275baba208cb161321.jpg)
 
 # When being a leader has no financial benefit.
 
-## It was about helping others reach their potential.
+## It is about helping others reach their potential.
 
 written by Seth Lowe
 
