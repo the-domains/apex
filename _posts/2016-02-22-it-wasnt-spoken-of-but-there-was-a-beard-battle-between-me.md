@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-22T19:30:43.632Z'
-dateModified: '2016-02-22T19:30:08.173Z'
+datePublished: '2016-02-22T21:11:07.382Z'
+dateModified: '2016-02-22T21:11:06.440Z'
 author:
   - name: jaysonmullen
     url: 'https://www.instagram.com/jaysonmullen'
@@ -30,14 +30,14 @@ app_links:
     namespace: google
     type: android
 title: "It wasn't spoken of, but there was a beard battle between me and @josegonzalezwot I won this year, but it's on for next year as well. #apexmandate2016 #APEX #beard #snow #tahoe #winter #snowfall #photography #nikon #notiphone"
+sourcePath: _posts/2016-02-22-it-wasnt-spoken-of-but-there-was-a-beard-battle-between-me.md
+published: true
 authors: []
 publisher:
   name: Instagram
   domain: www.instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-sourcePath: _posts/2016-02-22-it-wasnt-spoken-of-but-there-was-a-beard-battle-between-me.md
-published: true
 _type: Photograph
 _context: 'http://schema.org'
 
