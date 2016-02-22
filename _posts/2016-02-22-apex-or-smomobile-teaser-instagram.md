@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/156196338'
+inLanguage: null
+starred: false
+keywords: []
+description: 'APEX | Lake Tahoe 2016 http://apex.vision/'
+datePublished: '2016-02-22T04:26:42.234Z'
+dateModified: '2016-02-22T00:26:23.334Z'
 author:
   - name: 'CASEY & KRISTIN'
     url: 'http://vimeo.com/caseyandkristin'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'APEX | Lake Tahoe 2016 http://apex.vision/'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/156196338'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/156196338'
 title: 'APEX | Smomobile Teaser Instagram'
-datePublished: '2016-02-22T00:12:47.343Z'
-dateModified: '2016-02-22T00:09:25.167Z'
 sourcePath: _posts/2016-02-22-apex-or-smomobile-teaser-instagram.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
