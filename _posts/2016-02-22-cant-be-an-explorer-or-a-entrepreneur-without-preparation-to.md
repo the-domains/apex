@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/JefnJul/status/699698327089119232'
+inLanguage: en
+starred: false
+keywords:
+  - apexmandate
+  - jig7ebmi8d
+  - apexmandate2016
+  - twitter
+  - location
+  - entrepreneur
+  - tweet
+  - thegrid
+  - beautifuloutcome
+  - copying
+description: "Can't be an explorer or a entrepreneur w/out preparation! Today @ApexMandate we will equip both! #ApexMandate2016"
+datePublished: '2016-02-22T17:02:34.441Z'
+dateModified: '2016-02-22T17:02:31.719Z'
 author:
   - name: jefnjul
     url: 'http://twitter.com/jefnjul'
@@ -14,40 +34,22 @@ author:
           - 118
           - 111
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - apexmandate
-  - jig7ebmi8d
-  - apexmandate2016
-  - twitter
-  - location
-  - entrepreneur
-  - tweet
-  - thegrid
-  - beautifuloutcome
-  - copying
-description: "Can't be an explorer or a entrepreneur w/out preparation! Today @ApexMandate we will equip both! #ApexMandate2016"
-inLanguage: en
 app_links:
   - path: 'twitter/tweet?status_id=699698327089119232&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Estatus%7Ctwterm%5E699698327089119232'
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/JefnJul/status/699698327089119232'
-datePublished: '2016-02-22T05:26:18.289Z'
-dateModified: '2016-02-22T05:22:35.457Z'
 title: ''
 sourcePath: _posts/2016-02-22-cant-be-an-explorer-or-a-entrepreneur-without-preparation-to.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Can't be an explorer or a entrepreneur w&sol;out preparation&excl; Today &commat;ApexMandate we will equip both&excl; &num;ApexMandate2016](https://pbs.twimg.com/media/CbXT5cLUsAAId5j.jpg:large)
+![Can't be an explorer or a entrepreneur w/out preparation! Today @ApexMandate we will equip both! #ApexMandate2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de676ef3673894d973cb2fd466be6a84c1ed1022.jpg)
