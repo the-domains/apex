@@ -4,7 +4,7 @@
         <description><![CDATA[apex]]></description>
         <link>http://apex.vision/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 05:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 05:28:32 GMT</lastBuildDate>
         <atom:link href="http://apex.vision/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[APEX]]></title>
@@ -12,6 +12,13 @@
             <link>http://apex.vision/apex/index.html</link>
             <guid isPermaLink="false">de7fc337-cf0d-4548-a101-1bf8c5db3e17</guid>
             <pubDate>Fri, 15 Jan 2016 05:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="dream&period;risk&period;hustle&period;repeat&period; &num;ApexMandate2016 http&colon;&sol;&sol;ift&period;tt&sol;1U80OQ8" src="https://pbs.twimg.com/media/CbbmFfzW8AApjqX.jpg:large">]]></description>
+            <link>https://twitter.com/pure7studios/status/699999774368518144</link>
+            <guid isPermaLink="false">a04a2339-d9de-4d70-99b1-ca720867a8df</guid>
+            <pubDate>Mon, 22 Feb 2016 05:26:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://apex.vision/apex-creative-workshop-feb-16th-19th-2016/index.html</link>
             <guid isPermaLink="false">82abefb4-d725-4ecd-9491-bac5c0cc1077</guid>
             <pubDate>Wed, 20 Jan 2016 00:11:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Importance of Changing Mediums]]></title>
-            <description><![CDATA[<article><h1>The Importance of Changing Mediums</h1><h2>Why We Need More Polymaths in the 21st Century...by Jeff Goins</h2><p>My grandfather, the painter, loved Picasso. In his house were abstract oil paintings, attempts at mimicking the master. Because of these paintings, I always assumed Picasso just painted things a little weirdly. But that wasn’t the case at all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25cd718c4e3a42440b491a2e0cb2a704b10ed17d.jpg"></article>]]></description>
-            <link>http://apex.vision/the-importance-of-changing-mediums/index.html</link>
-            <guid isPermaLink="false">89ddba0a-c553-4417-b177-962af006ecbd</guid>
-            <pubDate>Mon, 22 Feb 2016 04:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
