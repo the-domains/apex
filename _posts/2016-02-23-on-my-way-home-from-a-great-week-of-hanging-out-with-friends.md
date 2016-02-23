@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T22:11:41.830Z'
-dateModified: '2016-02-23T17:23:10.559Z'
+datePublished: '2016-02-23T22:55:25.854Z'
+dateModified: '2016-02-23T22:11:49.700Z'
 author:
   - name: andybondurant
     url: 'https://www.instagram.com/andybondurant'
