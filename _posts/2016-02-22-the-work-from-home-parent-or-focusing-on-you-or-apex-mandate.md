@@ -17,8 +17,8 @@ keywords:
   - trip
   - cabin
 description: "As work-from-home parents, the daily grind of managing our business while trying to raise kids can become overwhelming at times. Don't get me wrong, working for myself and being able to work from home and spend extra time with my family is a huge blessing!"
-datePublished: '2016-02-22T17:01:44.837Z'
-dateModified: '2016-02-22T16:59:50.605Z'
+datePublished: '2016-03-18T22:51:15.657Z'
+dateModified: '2016-02-24T19:15:47.157Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Work From Home Parent | Focusing On You | Apex Mandate</h1><p>As work-from-home parents, the daily grind of managing our business while trying to raise kids can become overwhelming at times. Don't get me wrong, working for myself and being able to work from home and spend extra time with my family is a huge blessing!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76d2ca2cd6642d00cf94df7707d4cca7517cd96a.jpg" /></article>
+<article style=""><h1>The Work From Home Parent | Focusing On You | Apex Mandate</h1><p>As work-from-home parents, the daily grind of managing our business while trying to raise kids can become overwhelming at times. Don't get me wrong, working for myself and being able to work from home and spend extra time with my family is a huge blessing!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1453c047b4c13956ce1fd1af294a19a27b044604.jpg" /></article>
