@@ -17,8 +17,8 @@ keywords:
   - honest
   - saw
 description: "It started with my friend Shane getting real in a van full of guys he didn't really know. He just told his story, no holds barred. 8 of us listening, amazed. At that moment, just hours into the trip, the weekend changed - the mood shifted."
-datePublished: '2016-03-01T23:25:42.623Z'
-dateModified: '2016-03-01T18:34:11.126Z'
+datePublished: '2016-03-18T22:50:58.893Z'
+dateModified: '2016-03-18T22:50:48.206Z'
 author:
   - name: Andy Bondurant
     url: 'http://andybondurant.com/author/andybondurant/'
