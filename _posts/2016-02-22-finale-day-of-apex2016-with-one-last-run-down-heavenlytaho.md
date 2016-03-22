@@ -17,8 +17,8 @@ keywords:
   - dxolabs
   - siah
 description: 'Finale day of #apex2016 with one last run down #HeavenlyTahoe. : @DxOLabs #dxomade #vsco'
-datePublished: '2016-03-22T01:43:05.578Z'
-dateModified: '2016-03-22T01:43:05.165Z'
+datePublished: '2016-03-22T01:43:25.606Z'
+dateModified: '2016-03-22T01:43:13.700Z'
 author:
   - name: jefnjul
     url: 'http://twitter.com/jefnjul'
@@ -52,4 +52,4 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Finale day of #apex2016 with one last run down #HeavenlyTahoe. : @DxOLabs #dxomade #vsco](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e55d49f76459a14c198894fb2f2370825ee2d8.jpg)
+![Finale day of #apex2016 with one last run down #HeavenlyTahoe. : @DxOLabs #dxomade #vsco](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb4f6cbaa8cd9f57fca496064939244d834e1197.jpg)
