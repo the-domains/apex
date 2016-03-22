@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: Apex 2016 is sold out to get on the waiting list. Email Hello@beautifuloutcome.com
-datePublished: '2016-02-22T17:04:44.167Z'
-dateModified: '2016-02-22T17:04:42.146Z'
+description: 2017 APEX Workshop dates will be released soon.
+datePublished: '2016-03-22T17:11:46.148Z'
+dateModified: '2016-03-22T17:11:40.983Z'
 author: []
 title: APEX
 tags:
