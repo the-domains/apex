@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-08-04T20:36:35.706Z'
+datePublished: '2016-08-04T20:43:03.786Z'
+sourcePath: >-
+  _posts/2016-08-04-i-am-in-the-planning-stages-of-apex-2017-but-i-love-the-opp.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-04T20:36:28.934Z'
+dateModified: '2016-08-04T20:40:00.044Z'
 title: >-
   I am in the planning stages of APEX 2017, but I love the opportunity to share
   what some of the Men of the Movement are up to these days.
 publisher: {}
 description: ''
 starred: false
-sourcePath: >-
-  _posts/2016-08-04-i-am-in-the-planning-stages-of-apex-2017-but-i-love-the-opp.md
 url: i-am-in-the-planning-stages-of-apex-2017-but-i-love-the-opp/index.html
 _context: 'http://schema.org'
 _type: Article
