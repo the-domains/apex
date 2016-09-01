@@ -1,35 +1,27 @@
 ---
+datePublished: '2016-08-30T00:09:56.159Z'
+sourcePath: >-
+  _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
-description: 2017 APEX Workshop dates will be released soon.
-datePublished: '2016-08-29T23:53:21.449Z'
-dateModified: '2016-08-29T23:49:42.775Z'
 author:
   - name: ''
     url: ''
-title: APEX
+via: {}
+dateModified: '2016-08-30T00:09:55.646Z'
+title: ''
 tags:
   - ''
-sourcePath: >-
-  _posts/2015-09-24-mandate-to-move-forwardthis-years-theme-undonewhen-you-begi.md
-authors: []
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
-via: {}
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
 starred: false
 url: apex/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a5f4164359fda4f324c3b08e3d4c5d24d5e874e.jpg)
-
-# APEX
-
-2017 APEX Workshop dates will be released soon.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1a566a2c8fd8598b47f53672d3fed145cb13926.jpg)
