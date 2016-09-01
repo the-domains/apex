@@ -5,13 +5,13 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-01T01:27:44.873Z'
-dateModified: '2016-02-01T01:27:41.524Z'
+description: "Do you remember as a kid what it felt like to jump into the deep end of the pool? Maybe you are like me and would try and talk yourself out of it? That is what we tend to do when faced with a fear or doubt. But, what if jumping in the deep end meant you could go on an incredible journey into new territory. Forget about the rush that you feel once you're in the deep end. Once under water, your able to see the sun dance on the water in new ways you could never see while on top of the water.\_What if at that moment you could just relax, breath, silence yourself and take it all in? What would come up in that internal conversation and would that conversation allow you to shift how you might be showing up in life? How might you be showing up in your business or your relationships? Sometimes the killer of relationships isn’t a lack of trust, a lack of communication or arguing with your significant other. It’s pure indifference. We go into “autopilot” mode and become indifferent toward one another or even our current position in life. \n"
+datePublished: '2016-08-30T00:10:15.050Z'
+dateModified: '2016-03-18T22:43:43.549Z'
 title: "Moving Forward-The APEX Mandate\_"
 author: []
-sourcePath: _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
-published: true
+sourcePath: >-
+  _posts/2016-01-09-i-have-a-love-of-water-i-would-also-tell-you-i-have-a-fear.md
 authors: []
 publisher:
   name: null
