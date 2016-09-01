@@ -1,17 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-18T18:10:47.392Z'
-dateModified: '2016-01-18T18:10:43.275Z'
+description: >-
+  One reason I love this project is it helps develop a picture of how to get
+  where I want to go.
+datePublished: '2016-08-30T00:11:26.023Z'
+dateModified: '2016-03-18T22:45:49.499Z'
 title: How to Conquer the Dragon.
 author: []
 sourcePath: _posts/2016-01-11-how-to-conquer-the-dragon.md
-published: true
 authors: []
 publisher:
   name: null
@@ -19,7 +20,7 @@ publisher:
   url: null
   favicon: null
 url: how-to-conquer-the-dragon/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/82cabe3e16393dc7c00886b2be058653ee9a102c.jpg)
@@ -31,14 +32,10 @@ Growing up I believed there were two type of people - creative and non-creative.
 Don't ask me to draw a picture, paint a painting or sculpt anything. However, give me a few minutes, an audience and a microphone, and I have a chance. Better yet, give me an organization and a team, and I can create with the best of them. I am creative, and so are you. As creatives, fear is our biggest enemy. In his book, Do the Work, Steven Pressfield refers to fear as the Resistance. He compares fear to a 10 foot dragon fighting our call to create.
 
 > Fear is a Dragon that wants to destroy your dream.
-> 
-> 
 
 As creatives, it's our job to determine how to overcome the dragon. When we do, we are free to design and build what's in our head and heart.
 
 How do you overcome fear? There lots answers this question, but I've found 2 ways that never lack results.
-
-## 
 
 ## 1.Take a Step.
 
@@ -49,10 +46,6 @@ When I just focus on the next step, and I take that step, the following step bec
 Today, if you find yourself paralyzed by fear, I encourage to think about the next thing you know you need to do. Then do it.
 
 After you finish that thing, find the next thing, and do it. Repeat, wash, rinse. Eventually, you'll find yourself at your goal!
-
-## 
-
-## 
 
 ## 2.Pick a Word
 
@@ -72,12 +65,6 @@ The question is, _"Will you do the work?"_
 
 ****
 
-# 
-
-## 
-
-Article written by [Andy Bondurant][0]
-
-
+## Article written by [Andy Bondurant][0]
 
 [0]: https://twitter.com/andybondurant
