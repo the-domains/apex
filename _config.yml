@@ -1,4 +1,3 @@
-layout_spectrum: 0.41980754770338535
 typography_spectrum: 0.18649165937677026
 color:
   brandColors:
@@ -11,7 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.41980754770338535
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: apex
+cta:
+  domain: null
+  bucket: null
+  version: null
 favicon: null
 collections:
   - filter:
@@ -37,16 +49,4 @@ collections:
     permalink:
       path: '/:title/'
       navigable: true
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 purpose: []
