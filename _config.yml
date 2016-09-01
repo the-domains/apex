@@ -1,7 +1,18 @@
+layout_spectrum: 0.41980754770338535
+typography_spectrum: 0.18649165937677026
+color:
+  brandColors:
+    - '#f2f2f4'
+    - '#f0b642'
+    - '#252838'
+    - '#434554'
+    - '#6b6b6d'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 name: apex
 favicon: null
-layout_spectrum: 0.9762685645837337
-typography_spectrum: 0.08919586334377527
 collections:
   - filter:
       notType:
@@ -38,15 +49,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f2f2f4'
-    - '#f0b642'
-    - '#252838'
-    - '#434554'
-    - '#6b6b6d'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
