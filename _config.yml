@@ -19,12 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff3a263d-8a2b-426f-91aa-6cec3dc32832.png
 name: apex
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/26a2478f-5979-4a99-a15e-db114ad02500.png
 collections:
   - filter:
       notType:
