@@ -1,33 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-20T00:10:12.347Z'
-dateModified: '2016-01-20T00:10:07.309Z'
-title: 'What is included:'
-author: []
+datePublished: '2016-08-30T18:35:58.140Z'
 sourcePath: _posts/2016-01-09-what-is-included.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+via: {}
+dateModified: '2016-08-30T18:35:57.700Z'
+title: 'What is included:'
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: what-is-included/index.html
 _type: Article
 
 ---
 # What is included:
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/159f7c21ac65d25a147005c0869a876589f2e883.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb7cc89c7058be7e58cc66f1c884f6676b2c3f0a.jpg)
 
-## 3 nights in Lake Tahoe
+## 4 nights in Lake Tahoe
 
-* Accommodations at a Luxury Mountain Cabin in Lake Tahoe 
+* Accommodations at a Luxury Mountain Cabin in Lake Tahoe
 * Meals at cabin prepared by a Personal Chef
-* Transportation to and from SFO to Lake Tahoe (If flight arrives by 2 p.m. 2/16 and departs after 2 p.m. 2/19) 
 * Swag that every man will want (thx to some generous friends.)
